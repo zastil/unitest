@@ -44,7 +44,7 @@ public slots:
     void gotoOverviewPage()
     /** Switch to hyperlinks (hyperlinks) page */
     void gotoHyperlinksPage();
-    /** Switch to history (transactions) page */
+    /** Switch to Hyperlinks page */
     void gotoHistoryPage();
     /** Switch to address book page */
     void gotoAddressBookPage();
